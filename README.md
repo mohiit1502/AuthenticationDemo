@@ -1,3 +1,3 @@
-# subset_trello
+# Authentication Demo
 
-Application demonstrating a subset of TODO manager features.
+Application demonstrating complete authentication and authorization functionality using React, Express and Nodejs
